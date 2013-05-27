@@ -39,3 +39,7 @@ Spec
 - **[여력되면]** 참석자는 발표를 방해하지 않고 질문하기 위해 댓글을 달 수 있다. 
 - 누구나 누가 참석했는지 알 수 있기 위해 참석자 목록을 볼 수 있다. 
 - 누구나 어디에 누가 앉았는지 알 수 있기 위해 좌석표를 볼 수 있다. 
+
+UI prototype
+---
+<img src='https://github.com/octoberskyjs-lab/seat.js/raw/master/docs/images/seating_ui.jpg'>
